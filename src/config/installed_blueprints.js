@@ -16,7 +16,6 @@ export const installed_blueprints = [
 { name: 'CopyOfAchievements2176045', human_name: 'Copy of Achievements 2', access_route: 'CopyOfAchievements2176045'},
 { name: 'CopyOfAchievements2176044', human_name: 'Copy of Achievements 2', access_route: 'CopyOfAchievements2176044'},
 { name: 'CopyOfAchievements2176043', human_name: 'Copy of Achievements 2', access_route: 'CopyOfAchievements2176043'},
-{ name: 'CopyOfBlankScreen4176042', human_name: 'Copy of Blank Screen 4', access_route: 'CopyOfBlankScreen4176042'},
 { name: 'CopyOfBlankScreen4176041', human_name: 'Copy of Blank Screen 4', access_route: 'CopyOfBlankScreen4176041'},
 { name: 'Achievements13176040', human_name: 'Achievements 13', access_route: 'Achievements13176040'},
 { name: 'CopyOfAchievements2175941', human_name: 'Copy of Achievements 2', access_route: 'CopyOfAchievements2175941'},
