@@ -5,6 +5,7 @@ import {createDrawerNavigator} from 'react-navigation-drawer';
 import SplashScreen from "../features/SplashScreen";
 import SideMenu from './sideMenu';
 //@BlueprintImportInsertion
+import Dashboard17175936Navigator from '../features/Dashboard17175936/navigator';
 import Dashboard18175935Navigator from '../features/Dashboard18175935/navigator';
 import Achievements2175933Navigator from '../features/Achievements2175933/navigator';
 import Achievements3175931Navigator from '../features/Achievements3175931/navigator';
@@ -16,6 +17,7 @@ import Achievements3175931Navigator from '../features/Achievements3175931/naviga
 const AppNavigator = {
 
     //@BlueprintNavigationInsertion
+Dashboard17175936: { screen: Dashboard17175936Navigator },
 Dashboard18175935: { screen: Dashboard18175935Navigator },
 Achievements2175933: { screen: Achievements2175933Navigator },
 Achievements3175931: { screen: Achievements3175931Navigator },
