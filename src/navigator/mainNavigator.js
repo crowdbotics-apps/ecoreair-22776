@@ -12,7 +12,6 @@ import Achievements31176170Navigator from '../features/Achievements31176170/navi
 import Achievements32176169Navigator from '../features/Achievements32176169/navigator';
 import Achievements33176168Navigator from '../features/Achievements33176168/navigator';
 import Achievements34176167Navigator from '../features/Achievements34176167/navigator';
-import Achievements35176166Navigator from '../features/Achievements35176166/navigator';
 import Achievements36176165Navigator from '../features/Achievements36176165/navigator';
 import Achievements27176164Navigator from '../features/Achievements27176164/navigator';
 import Achievements26176163Navigator from '../features/Achievements26176163/navigator';
@@ -65,7 +64,6 @@ Achievements31176170: { screen: Achievements31176170Navigator },
 Achievements32176169: { screen: Achievements32176169Navigator },
 Achievements33176168: { screen: Achievements33176168Navigator },
 Achievements34176167: { screen: Achievements34176167Navigator },
-Achievements35176166: { screen: Achievements35176166Navigator },
 Achievements36176165: { screen: Achievements36176165Navigator },
 Achievements27176164: { screen: Achievements27176164Navigator },
 Achievements26176163: { screen: Achievements26176163Navigator },
