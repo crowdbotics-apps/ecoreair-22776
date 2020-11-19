@@ -18,7 +18,6 @@ import CopyOfAchievements13176050Navigator from '../features/CopyOfAchievements1
 import CopyOfAchievements13176049Navigator from '../features/CopyOfAchievements13176049/navigator';
 import CopyOfAchievements13176048Navigator from '../features/CopyOfAchievements13176048/navigator';
 import Achievements18176047Navigator from '../features/Achievements18176047/navigator';
-import CopyOfAchievements2176046Navigator from '../features/CopyOfAchievements2176046/navigator';
 import CopyOfAchievements2176045Navigator from '../features/CopyOfAchievements2176045/navigator';
 import CopyOfAchievements2176044Navigator from '../features/CopyOfAchievements2176044/navigator';
 import CopyOfAchievements2176043Navigator from '../features/CopyOfAchievements2176043/navigator';
@@ -53,7 +52,6 @@ CopyOfAchievements13176050: { screen: CopyOfAchievements13176050Navigator },
 CopyOfAchievements13176049: { screen: CopyOfAchievements13176049Navigator },
 CopyOfAchievements13176048: { screen: CopyOfAchievements13176048Navigator },
 Achievements18176047: { screen: Achievements18176047Navigator },
-CopyOfAchievements2176046: { screen: CopyOfAchievements2176046Navigator },
 CopyOfAchievements2176045: { screen: CopyOfAchievements2176045Navigator },
 CopyOfAchievements2176044: { screen: CopyOfAchievements2176044Navigator },
 CopyOfAchievements2176043: { screen: CopyOfAchievements2176043Navigator },
