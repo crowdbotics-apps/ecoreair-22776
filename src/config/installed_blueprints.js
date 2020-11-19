@@ -1,5 +1,6 @@
 export const installed_blueprints = [
   //@BlueprintInsertion
+{ name: 'Achievements22176057', human_name: 'Achievements 22', access_route: 'Achievements22176057'},
 { name: 'Achievements23176056', human_name: 'Achievements 23', access_route: 'Achievements23176056'},
 { name: 'Achievements24176055', human_name: 'Achievements 24', access_route: 'Achievements24176055'},
 { name: 'Achievements25176054', human_name: 'Achievements 25', access_route: 'Achievements25176054'},
